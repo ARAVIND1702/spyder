@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spyder/static/css/main.43f6f3af.css",
+    "main.js": "/spyder/static/js/main.75b02d58.js",
+    "static/js/787.2ddb9ecd.chunk.js": "/spyder/static/js/787.2ddb9ecd.chunk.js",
+    "static/media/trailer1.mp4": "/spyder/static/media/trailer1.1d35485f3ebd77d42d96.mp4",
+    "static/media/trailer2.mp4": "/spyder/static/media/trailer2.ada6c84b700261b64b12.mp4",
+    "static/media/bgVideo.mp4": "/spyder/static/media/bgVideo.b28a2d99406e4f44f70f.mp4",
+    "static/media/spiderman3x.png": "/spyder/static/media/spiderman3x.e4265c093f5b381dc4d7.png",
+    "static/media/synopsis_poster.jpg": "/spyder/static/media/synopsis_poster.2bdb4277b82d710572ee.jpg",
+    "static/media/video_poster2.jpg": "/spyder/static/media/video_poster2.39fded7949aed99b8af9.jpg",
+    "static/media/video_poster1.jpg": "/spyder/static/media/video_poster1.96d5b34095d2ade45bd2.jpg",
+    "static/media/release_date.png": "/spyder/static/media/release_date.c6ed929d0c41308c7c4d.png",
+    "static/media/sp_logo.svg": "/spyder/static/media/sp_logo.baa356f2fc966ee75d3c3631d49df704.svg",
+    "static/media/sony.svg": "/spyder/static/media/sony.1b5777ef7a4220a7fdf456d692b4a049.svg",
+    "index.html": "/spyder/index.html",
+    "main.43f6f3af.css.map": "/spyder/static/css/main.43f6f3af.css.map",
+    "main.75b02d58.js.map": "/spyder/static/js/main.75b02d58.js.map",
+    "787.2ddb9ecd.chunk.js.map": "/spyder/static/js/787.2ddb9ecd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43f6f3af.css",
+    "static/js/main.75b02d58.js"
+  ]
+}
